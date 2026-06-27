@@ -83,3 +83,9 @@ Hasil installer ada di folder `dist/`.
 
 > ⚠️ **Penting**: Simpan password Anda di tempat aman.
 > File yang terenkripsi **tidak bisa dipulihkan** tanpa password yang benar.
+
+## Troubleshooting umum
+
+- 'node' is not recognized Node.js ← belum terinstall, download di nodejs.org
+- 'electron' is not found ← Jalankan npm install dulu
+- Window tidak munculCek apakah ada error di terminal
