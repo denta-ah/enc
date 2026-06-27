@@ -35,7 +35,7 @@ cd FileVault
 npm install
 
 # 3. Jalankan aplikasi
-npm start
+npm start atau klik file "_Start.bat"
 ```
 
 ---
