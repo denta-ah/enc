@@ -1,0 +1,12 @@
+{
+  "name": "filevault",
+  "version": "1.0.0",
+  "description": "File encryption & decryption tool",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^28.0.0"
+  }
+}
