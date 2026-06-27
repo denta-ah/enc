@@ -86,6 +86,6 @@ Hasil installer ada di folder `dist/`.
 
 ## Troubleshooting umum
 
-- 'node' is not recognized Node.js ← belum terinstall, download di nodejs.org
+- 'node' is not recognized ← Node.js belum terinstall, download di nodejs.org
 - 'electron' is not found ← Jalankan npm install dulu
 - Window tidak munculCek apakah ada error di terminal
