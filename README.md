@@ -2,7 +2,7 @@
 
 Aplikasi enkripsi file dengan tampilan GUI modern berbasis Electron.
 
-![FileVault](picture.png)
+![FileVault](Picture.png)
 
 ---
 
